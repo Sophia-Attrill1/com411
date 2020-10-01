@@ -14,4 +14,3 @@ print("# {}   {}  #".format(leftEye, rightEye))
 print("#   {}    #".format(mouth))
 print("##########")
 
-
