@@ -1,5 +1,5 @@
 print("What kind of book are you reading?")
-genre = input()
-if genre == "adventure" or genre == "Adventure":
+genre = input().upper()
+if genre == "ADVENTURE":
  print("I like adventure books")
 print("Finished reading book!")
