@@ -6,6 +6,7 @@ print("##########")
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 leftEye = input("Please enter a character for the left eye")
 rightEye = input("Please enter a character for the right eye")
@@ -19,6 +20,8 @@ print("##########")
 =======
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> origin/master
 name = input("Please enter a character for the eye")
 
 print("##########")
@@ -26,6 +29,9 @@ print("# {}   O #".format(name))
 print("#        #")
 print("##########")
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
