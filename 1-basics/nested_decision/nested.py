@@ -20,3 +20,8 @@ if (bookcover == "hard"):
  else:
    print("Not sure what you mean")
 
+<<<<<<< HEAD
+=======
+else:
+  print("I don't know what you're saying")
+>>>>>>> origin/master
