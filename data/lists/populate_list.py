@@ -7,7 +7,7 @@ def menu(): #creating a function for indexing the list
   print("Please select a direction")
   way = directions()
   for index in range(len(way)):
-    print("{} : {}".format(index, way[index]))
+    print("{} : {}".format(index, way[index])) #displays the index and the item in the "way" list that is associated with that index
  
   directionindex = int(input()) #asking the user to input a number in range of way
   return way[directionindex]
